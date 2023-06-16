@@ -1,2 +1,2 @@
 # testManualTestingProject
-this is a tets manual project
+this is a test manual project
