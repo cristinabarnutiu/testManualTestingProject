@@ -1,0 +1,2 @@
+# testManualTestingProject
+test
